@@ -3,6 +3,8 @@
 
 Aplicativo de demonstração do Pitich: https://hype-experience-vault.lovable.app/#solution
 
+Notebook: com IA conectada no supaabse: https://colab.research.google.com/drive/1lIsKBlxPYXkMYnWrFbkN76NUQWI7WHE9
+
 Painel administrativo do ecossistema **HYPE (TKT Protocol)**, um sistema de ticketing baseado em blockchain que transforma eventos em ativos digitais e cria uma economia baseada em experiências.
 
 ---
