@@ -73,9 +73,13 @@ O projeto faz parte de uma arquitetura maior:
 
 Deployed Contracts
 Contract	Address
+
 HypeToken	0xdBA88BabefdfFE8eD3fb3BBbe3Ffd8C7459c1a06
+
 HypePass	0x62D32fB746A305252c1c8838F09c8dcbeb8d1212
+
 HypeCore	0x366EE0f4303fb276fCEca38dE022430fb94b22c6
+
 HypeSale	0x53A89c90ADd3d10e3263860b702F83806192D3b7
 
 All permissions were configured:
