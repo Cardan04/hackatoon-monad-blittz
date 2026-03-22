@@ -1,5 +1,8 @@
 # 🔥 HYPE Admin — TKT Protocol
 
+
+Aplicativo de demonstração do Pitich: https://hype-experience-vault.lovable.app/#solution
+
 Painel administrativo do ecossistema **HYPE (TKT Protocol)**, um sistema de ticketing baseado em blockchain que transforma eventos em ativos digitais e cria uma economia baseada em experiências.
 
 ---
@@ -23,11 +26,11 @@ Um modelo onde experiências reais se tornam ativos digitais verificáveis, cria
 
 ## 🧱 Stack Utilizada
 
-- 🐍 Python
-- ⚡ Streamlit (Frontend + Dashboard)
-- 🟢 Supabase (Banco de dados e backend)
-- ⛓️ Solidity (Smart Contracts)
-- 🔗 Blockchain (compatível com EVM)
+- Python
+- Streamlit (Frontend + Dashboard)
+- Supabase (Banco de dados e backend)
+- Solidity (Smart Contracts)
+- Blockchain (compatível com EVM)
 
 ---
 
